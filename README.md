@@ -5,7 +5,7 @@ This is basically what this does except you have to hard code it and its not don
 
 ![Visualization](visualization.gif)
 
-##Features:
+## Features:
 * Create rulesets quickly by changing around characters in a text file
 * Works directly with LibGDX's tilemap functionality
 * Third bullet point
