@@ -1,4 +1,4 @@
-package src.com.mikm;
+package com.mikm;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
