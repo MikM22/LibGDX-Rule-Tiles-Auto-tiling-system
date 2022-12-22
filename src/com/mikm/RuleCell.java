@@ -1,4 +1,4 @@
-package com.src.com.mikm;
+package com.mikm;
 
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
