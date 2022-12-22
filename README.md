@@ -4,3 +4,8 @@ Adds Unity's Rule Tile functionality to LibGDX. Allows you to define which image
 This is basically what this does except you have to hard code it and its not done at runtime:
 
 ![Visualization](visualization.gif)
+
+##Features:
+* Create rulesets quickly by changing around characters in a text file
+* Works directly with LibGDX's tilemap functionality
+* Third bullet point
