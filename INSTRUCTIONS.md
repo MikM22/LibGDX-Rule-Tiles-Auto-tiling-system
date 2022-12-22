@@ -10,4 +10,4 @@ oxo
 
 'o' represents no neighbor is there in the grid, 'x' represents there is a neighbor there, and '-' represents that it doesn't matter whether a neighbor is there or not.
 
-After creating your spritesheet and metadata file, see the example class for an example of how to add the Rule Tile to your Tilemap renderer.
+In the example folder is an example metadata file and corresponding spritesheet. There is also an example class which shows how to add the Rule Tiles to your tilemap renderer.
