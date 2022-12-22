@@ -1,4 +1,4 @@
-package com.src.com.mikm;
+package com.mikm;
 
 class Vector2Int {
     int x;
