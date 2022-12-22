@@ -8,7 +8,32 @@ oxo
 x-x  
 oxo  
 
-
 'o' represents no neighbor is there in the grid, 'x' represents there is a neighbor there, and '-' represents that it doesn't matter whether a neighbor is there or not.
+
+There is also a shorthand to rotate this ruleset 90 degrees 4 times, and to flip it horizontally or vertically. That is notated by adding 'R', 'H', or 'V' after the image coordinates. For example: 
+
+[3,0]R  
+xxx  
+o-o  
+ooo  
+
+This would be identical to: 
+
+[3,0]  
+xxx  
+o-o  
+ooo  
+[3,0]  
+oox  
+o-x  
+oox  
+[3,0]  
+ooo  
+o-o  
+xxx  
+[3,0]  
+xoo  
+x-o  
+xoo  
 
 In the example folder is an example metadata file and corresponding spritesheet. There is also an example class which shows how to add the Rule Tiles to your tilemap renderer.
